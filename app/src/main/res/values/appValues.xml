@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- String do Projeto -->
+    <string name="appTitulo">Calculadora de IMC</string>
+    <string name="appBtnSet">Calcular IMC</string>
+    <string name="appBtnReset">Limpar</string>
+    <string name="appCalculadora">Calculadora IMC</string>
+    <string name="appBtnClose">Fechar</string>
+    <string name="appPlan1">Peso (kg): </string>
+    <string name="appPlan2">Altura (m): </string>
+    <string name="appPlan3">IMC: </string>
+    <string name="appResultado">-----</string>
+    <string name="appCtg1">Abaixo do Peso</string>
+    <string name="appFrase1">Cuidar da sua saúde é um gesto de amor próprio! Mantenha uma alimentação equilibrada e cuide-se.</string>
+    <string name="appCtg2">Peso Normal</string>
+    <string name="appFrase2">Parabéns! Manter um peso saudável é resultado de bons hábitos. Continue assim!</string>
+    <string name="appCtg3">Sobrepeso</string>
+    <string name="appFrase3">Pequenas mudanças trazem grandes resultados! Foque em hábitos saudáveis.</string>
+    <string name="appCtg4">Obesidade grau 1</string>
+    <string name="appFrase4">Sua saúde importa! Cada escolha saudável é um progresso.</string>
+    <string name="appCtg5">Obesidade grau 2</string>
+    <string name="appFrase5">Progrida em direção a um estilo de vida mais saudável! Você consegue!</string>
+    <string name="appCtg6">Obesidade grau 3</string>
+    <string name="appFrase6">A mudança começa agora! Valorize cada conquista no seu caminho.</string>
+    <string name="appClassificacao1">IMC &lt; 18.5</string>
+    <string name="appClassificacao2">18.5 &lt;= IMC &lt; 25</string>
+    <string name="appClassificacao3">25 &lt;= IMC &lt; 30</string>
+    <string name="appClassificacao4"> 30 &lt;= IMC &lt; 35 </string>
+    <string name="appClassificacao5"> 35 &lt;= IMC &lt; 40 </string>
+    <string name="appClassificacao6">IMC &gt;= 40</string>
+
+
+    <!-- Cores do Projeto -->
+    <color name="appColor1">#006341</color>
+    <color name="appColor2">#00A859</color>
+    <color name="appColor3">#4D4D4D</color>
+    <color name="appColor4">#B3B3B3</color>
+    <color name="appColor5">#FFFFFF</color>
+
+</resources>
