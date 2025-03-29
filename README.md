@@ -26,7 +26,7 @@ Durante o desenvolvimento do projeto, enfrentamos alguns desafios que exigiram p
 
 Além disso, encontramos obstáculos técnicos relacionados ao funcionamento do aplicativo, principalmente no que diz respeito a:
 
--Navegação entre Activities: Integrar as diferentes telas e garantir a troca de dados usando Intents e Bundles se mostrou desafiador, exigindo ajustes e pesquisas para corrigir problemas.
--Implementação em Java: Alguns conceitos específicos, como manipulação de dados e tratamento de entradas do usuário, demandaram mais estudo e prática.
--Estrutura do Projeto: Trabalhar com múltiplas telas e organizar o código de forma clara foram pontos que exigiram atenção extra.
--Apesar das dificuldades, cada desafio superado proporcionou aprendizado e aprimorou nossas habilidades no desenvolvimento Android, especialmente na programação orientada a objetos e na construção de interfaces amigáveis.
+-Navegação entre Activities: Integrar as diferentes telas e garantir a troca de dados usando Intents e Bundles se mostrou desafiador, exigindo ajustes e pesquisas para corrigir problemas.<br>
+-Implementação em Java: Alguns conceitos específicos, como manipulação de dados e tratamento de entradas do usuário, demandaram mais estudo e prática.<br>
+-Estrutura do Projeto: Trabalhar com múltiplas telas e organizar o código de forma clara foram pontos que exigiram atenção extra.<br>
+-Apesar das dificuldades, cada desafio superado proporcionou aprendizado e aprimorou nossas habilidades no desenvolvimento Android, especialmente na programação orientada a objetos e na construção de interfaces amigáveis.<br>
